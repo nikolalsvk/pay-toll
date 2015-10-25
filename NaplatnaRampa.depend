@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1422991636 source:e:\documents\v\baze\projekat\naplatnarampa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
